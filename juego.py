@@ -8,7 +8,7 @@ ventana = (800, 600)
 screen = pygame.display.set_mode(ventana)
 
 # cambiamos el nombre de la ventana
-pygame.display.set_caption("INVACIÓN")
+pygame.display.set_caption("INVASIÓN")
 
 # agregamos la imagen de fonde de la ventana
 fondo = pygame.image.load("Espacio.jpg")
